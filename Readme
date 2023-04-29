@@ -1,1 +1,9 @@
-This is JEE Project
+L'objectif principal de l'application est de permettre aux utilisateurs de gérer les informations liées à 
+la santé des patients et de faciliter la coordination entre les différents membres du personnel de l'hôpital. 
+Les médecins peuvent utiliser l'application pour consulter les rendez-vous à venir, accéder aux informations sur les patients,
+prescrire des médicaments et enregistrer des diagnostics. Les patients peuvent utiliser l'application pour prendre rendez-vous, accéder à leur dossier 
+médical et communiquer avec leur médecin.
+
+En résumé, l'objectif de votre application hospitalière JEE est de faciliter la gestion des patients et des rendez-vous, d'assurer la coordination 
+entre les différents membres du personnel médical et d'améliorer la qualité des soins aux patients en permettant un accès rapide et facile aux informations 
+pertinentes.
